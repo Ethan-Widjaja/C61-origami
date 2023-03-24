@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+div{
+    background:linear-gradient(#FDA7DF, #D980FA ,#9980FA ,#5758BB);
+}
+h1{
+    font-size:80px;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+}
